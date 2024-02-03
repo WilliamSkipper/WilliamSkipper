@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WilliamSkipper
 - 👀 I’m interested in Python, JS, and 💪🏼 Gym
-- 🌱 I’m currently learning to socialize 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to socialize 
 - 📫 How to reach me:
   -w.skipper@outlook.com (email)
   -william_skipper (discord)
